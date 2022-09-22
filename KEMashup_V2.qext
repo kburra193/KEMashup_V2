@@ -1,0 +1,10 @@
+{
+    "type": "mashup-template",
+    "name": "KEMashup_V2",
+    "description": "Admin Dashboard Template",
+    "author": "Karthik Burra",
+    "version": "1.0.0",
+    "dependencies": {
+        "qlik-sense": ">=3.0.x"
+    }
+}
